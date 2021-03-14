@@ -1,0 +1,6 @@
+[submodule "DemoBoard"]
+	path = DemoBoard
+	url = https://github.com/SZ2G-RoboticsClub/SmartCrutch-DemoBoard.git
+[submodule "Android-App"]
+	path = Android-App
+	url = https://github.com/SZ2G-RoboticsClub/SmartCrutch-Android-App.git
