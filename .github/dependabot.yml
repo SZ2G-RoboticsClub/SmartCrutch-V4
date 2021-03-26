@@ -1,13 +1,7 @@
 version: 2
-registries:
-  maven-github:
-    type: maven-repository
-    url: https://maven.pkg.github.com/octocat
-    token: ${{secrets.MY_GITHUB_PERSONAL_TOKEN}}
 updates:
   - package-ecosystem: "gitsubmodule"
     directory: "/"
-    registries:
-    - maven-github
+    registries: "*"
     schedule:
       interval: "daily"
