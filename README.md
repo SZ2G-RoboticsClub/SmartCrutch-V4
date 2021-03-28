@@ -14,17 +14,17 @@
 - LCF (Puppysmiles Days) - **Android开发 (AppInventor)**
 - LCL (圆溜溜的小怪兽)
 - WZY (霜落)
-- HMY (カネキ) - **~~摸鱼~~**
+- HMY (カネキ)
 - ...
 
 
 
 ### 仓库文件结构
 
-- DemoBoard - 开发版(mPython)程序
+- DemoBoard - 开发版(MicroPython)程序
 - Android-App - 安卓APP程序
-- Learning - 学习资料
-- V3 - 上一代拐杖程序文件
+- Server - 服务端程序
+- Learning - 参考资料
 - ...
 
 
