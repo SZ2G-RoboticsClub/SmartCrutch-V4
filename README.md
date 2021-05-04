@@ -1,20 +1,19 @@
 # SmartCrutch
 
-智能拐杖项目第4代 程序组工程仓库  
+智能拐杖项目第4代 程序组工程主仓库  
 
 **本仓库内包含内部文件，请勿外传**
 
 
 
-### 开发成员
+### 项目成员
 
-- 丁毅 (半夏微凉) - **程序组组长 | DemoBoard开发**
-
-- [@DeltaZero](https://github.com/233a344a455) - **Android开发 (Java)**
-- LCF (Puppysmiles Days) - **Android开发 (AppInventor)**
-- LCL (圆溜溜的小怪兽)
-- WZY (霜落)
-- HMY (カネキ)
+- [@fengqin-635](https://github.com/fengqin-635) - **指导教师**
+- [@link857](https://github.com/link857) (DY) - **程序组组长 | DemoBoard开发**
+- [@DeltaZero](https://github.com/233a344a455) - **Android开发 (Java) | Server开发**
+- @圆溜溜的小怪兽 (LCL)
+- @霜落 (WZY)
+- @カネキ (HMY)
 - ...
 
 
@@ -26,6 +25,16 @@
 - Server - 服务端程序
 - Learning - 参考资料
 - ...
+
+
+
+### 项目开发规范
+
+请各位成员在非特殊情况下不要对项目直接 commit *(maintainer除外)*  
+
+而是 fork 后 PR，由对应子项目的 maintainer 查看后再合并入仓库   
+
+**请注意不要将数据库文件提交至仓库!!!**
 
 
 
