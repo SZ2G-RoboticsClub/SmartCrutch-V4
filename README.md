@@ -1,9 +1,12 @@
 <div align="center">
 
-![poster](./poster.png)
+![poster](https://cdn.jsdelivr.net/gh/SZ2G-RoboticsClub/SmartCrutch-V4/poster.png)
 
-## 守护者云拐杖第4代
+# 守护者云拐杖第4代
 **程序组主仓库**
+  
+
+  
 
 </div>
 
@@ -12,20 +15,20 @@
 > 本项目开发周期已结束，后续将不再维护。  
 > 已添加 MIT License。  
 >
-> ​	——  [@DeltaZero](https://github.com/233a344a455)  2020.10.17
+> ​	——  [@DeltaZero](https://github.com/233a344a455)  2020.10.07
 
 
 
-### 项目简介
-**<u>守护者云拐杖</u>** 是一个由 [深圳市第二高级中学创客团队](https://github.com/SZ2G-RoboticsClub) 开发的 **智能拐杖** 项目。  
+## 项目简介
+**<u>守护者云拐杖</u>** 是一个由 [深圳市第二高级中学创客团队](https://github.com/SZ2G-RoboticsClub) 开发的 **智能拐杖** 项目  
 
-包括 **开发版(MicroPython)程序、Android APP、服务端** 程序。  
+包括 **开发版(MicroPython)程序、Android APP、服务端**  
 
 旨在解决老人的出行问题。  
 
 
 
-### 功能概述
+## 功能概述
 
 - 跌倒报警
 
@@ -66,7 +69,7 @@
 
 
 
-### 项目成员
+## 项目成员
 
 - [@fengqin-635](https://github.com/fengqin-635) - 指导教师
 - [@link857](https://github.com/link857) (DY) - 程序组组长 | [DemoBoard](https://github.com/SZ2G-RoboticsClub/SmartCrutch-DemoBoard) 开发
@@ -78,7 +81,7 @@
 
 
 
-### 项目结构
+## 项目结构
 
 - [DemoBoard](https://github.com/SZ2G-RoboticsClub/SmartCrutch-DemoBoard) - 开发版(MicroPython)程序
 - [Android-App](https://github.com/SZ2G-RoboticsClub/SmartCrutch-Android-App) - 安卓APP程序
@@ -87,10 +90,11 @@
 
 
 
-### 项目开发规范
+## 项目开发规范
 
-请各位成员在非特殊情况下不要对项目直接 commit *(maintainer除外)*  
+~~请各位成员在非特殊情况下不要对项目直接 commit *(maintainer除外)*~~  
 
-而是 fork 后 PR，由对应子项目的 maintainer 查看后再合并入仓库   
+~~而是 fork 后 PR，由对应子项目的 maintainer 查看后再合并入仓库~~   
 
-**请注意不要将数据库文件提交至仓库!!!**  
+~~**请注意不要将数据库文件提交至仓库!!!**~~  
+
